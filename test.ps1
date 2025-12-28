@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass npx @modelcontextprotocol/inspector uv --directory "C:\\\\Users\\nenad\\mcp\\all-in-one" run "server.py"
